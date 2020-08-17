@@ -17,3 +17,7 @@ This can be deploy on any web server or local
 ## How to contribute
 
 Its an open source projects. You can fork it and changed it accordingly
+
+### Copyright
+
+@2020MSRCooperation
