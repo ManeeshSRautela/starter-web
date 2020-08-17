@@ -16,7 +16,7 @@ This can be deploy on any web server or local
 
 ## How to contribute
 
-Its an open source projects. You can fork it and changed it accordingly
+Its an open source projects. You can fork it make a pull request and send for review before pushing.
 
 ### Copyright
 
