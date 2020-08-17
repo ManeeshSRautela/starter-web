@@ -21,4 +21,4 @@ Its an open source projects. You can fork it make a pull request and send for re
 
 ### Copyright
 
-@2020MSRCooperation
+@2020MSRCooperation. All rights reserved.
